@@ -13,6 +13,7 @@
 		FD06888F247C994B0001D668 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD06888D247C994B0001D668 /* Main.storyboard */; };
 		FD068891247C994C0001D668 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD068890247C994C0001D668 /* Assets.xcassets */; };
 		FD068894247C994C0001D668 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD068892247C994C0001D668 /* LaunchScreen.storyboard */; };
+		FD06889C247C9B7E0001D668 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD06889B247C9B7E0001D668 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FD068890247C994C0001D668 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD068893247C994C0001D668 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD068895247C994C0001D668 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD06889B247C9B7E0001D668 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				FD068890247C994C0001D668 /* Assets.xcassets */,
 				FD068892247C994C0001D668 /* LaunchScreen.storyboard */,
 				FD068895247C994C0001D668 /* Info.plist */,
+				FD06889B247C9B7E0001D668 /* ResultViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				FD06888C247C994B0001D668 /* ViewController.swift in Sources */,
 				FD068888247C994B0001D668 /* AppDelegate.swift in Sources */,
 				FD06888A247C994B0001D668 /* SceneDelegate.swift in Sources */,
+				FD06889C247C9B7E0001D668 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
